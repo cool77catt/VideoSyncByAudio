@@ -1,0 +1,8 @@
+# mac-based files
+.DS_Store
+
+# Test clips
+/test-clips/
+
+# Virtual Environment
+/venv/
