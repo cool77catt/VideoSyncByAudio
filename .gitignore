@@ -1,8 +1,17 @@
 # mac-based files
 .DS_Store
 
-# Test clips
-/test-clips/
+# Jupyter checkpointns
+.ipynb_checkpoints
+
+# tmp files
+/tmp
 
 # Virtual Environment
 /venv/
+
+# Application that was created in 2014
+/existing-app/
+
+# VSCode files
+/.vscode/
